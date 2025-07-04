@@ -1,8 +1,9 @@
-package Classes;
+package Services;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import Classes.Product;
 import Interfaces.ShipingService;
 import Interfaces.Shippable;
 
